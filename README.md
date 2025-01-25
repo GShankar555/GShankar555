@@ -72,7 +72,7 @@ I'm an engineering student with a strong passion for full-stack development, mac
 ---
 
 ### 💬 Let's Connect:
-- **LinkedIn**: [LinkedIn]https://www.linkedin.com/in/gowri-shankar-seshamsetti
-- **Email**: [Email]shankarseshamsetti@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/gowri-shankar-seshamsetti
+- **Email**: shankarseshamsetti@gmail.com
 
 ---
